@@ -24,6 +24,15 @@ What you are going to learn the following topics:
 - Token Economy
 - Using oracles to inject information into smart contracts
 
+## Brushing up Solidity
+
+Finish the [CryptoZombies Game](https://cryptozombies.io/en/course). Finish the following topics:
+
+- Solidity: Beginner to Intermediate Smart Contracts
+- Advanced Solidity: Get In-depth Knowledge
+
+This will help you to prepare for the course and put you up to speed.
+
 ## Setting up the repository
 
 Complete the following steps. You should obtain an `address` after completing step `8`. With these steps you will able to publish and verify your first smart contract.
@@ -47,21 +56,13 @@ Complete the following steps. You should obtain an `address` after completing st
    - [Download here](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) the extension
    - Create an account and enable a wallet in Metamask
 
-   <br />
-
    ![alt text](https://github.com/Blockchain-Bites/solidity-book/assets/3300958/92e38c89-4a19-4596-94ef-da06eb7e1b7b)
-
-   <br />
 
 3. Add `Amoy` to Metamask
 
    - Go to [Chainlist](https://chainlist.org/?testnets=true&search=amoy)
 
-   <br />
-
    ![alt text](https://github.com/Blockchain-Bites/solidity-book/assets/3300958/77249873-ce9d-43b5-a86a-7cba06d657e3)
-
-   <br />
 
    - Click on `Add to Metamask` and follow the instructions
 
@@ -80,11 +81,7 @@ Complete the following steps. You should obtain an `address` after completing st
 
    - `API_KEY_OKLINK`: Go to [OkLink](https://www.oklink.com/account/login?forward=%2Faccount%2Fmy-api). Click on `Sign Up` and finish creating the an account. After creating the account, hover your icon at the top right corner. Search for `API MANAGEMENT`. Add 2FA. Then click on `Create API key`. Copy the `API Key Token` into the `.env` file.
 
-   <br />
-
    ![alt text](https://github.com/Blockchain-Bites/solidity-book/assets/3300958/4f1eea23-0d0c-428b-9574-7022c13ce5f5)
-
-   <br />
 
    - `PRIVATE_KEY`: Obtain the `private key` of the wallet that was created in point `2` by following [these steps](https://support.metamask.io/hc/en-us/articles/360015289632-How-to-export-an-account-s-private-key) and copy it to this variable in the `.env` file.
 
