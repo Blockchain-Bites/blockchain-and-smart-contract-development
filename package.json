@@ -5,6 +5,7 @@
     "hardhat": "^2.22.2"
   },
   "dependencies": {
+    "@ethereumjs/tx": "3.5.2",
     "dotenv": "^16.4.5"
   }
 }
